@@ -2,46 +2,46 @@
   {
     "id": 1,
     "name": "Mose",
-    "image": "https://gustavogibo.github.io/the-office-clicky-game/src/cast-pics/1.jpg"
+    "image": "http://images.nymag.com/daily/entertainment/20090403_mose_250x250.jpg"
   },
   {
     "id": 2,
     "name": "Stanley",
-    "image": "https://gustavogibo.github.io/the-office-clicky-game/src/cast-pics/2.png"
+    "image": "https://tv-fanatic-res.cloudinary.com/stanley.png"
   },
   {
     "id": 3,
     "name": "Michael Scott",
-    "image": "https://gustavogibo.github.io/the-office-clicky-game/src/cast-pics/3.png"
+    "image": "https://i.pinimg.com/originals/50/97/12/509712ba33146d3108c17a487092f0a0.png"
   },
   {
     "id": 4,
     "name": "Kevin",
-    "image": "https://gustavogibo.github.io/the-office-clicky-game/src/cast-pics/4.png"
+    "image": "https://tv-fanatic-res.cloudinary.com/kevin-malone.png"
   },
   {
     "id": 5,
     "name": "Phillys",
-    "image": "https://gustavogibo.github.io/the-office-clicky-game/src/cast-pics/7.png"
+    "image": "https://tv-fanatic-res.cloudinary.com/phyllis.png"
   },
   {
     "id": 6,
     "name": "Todd Packer",
-    "image": "https://gustavogibo.github.io/the-office-clicky-game/src/cast-pics/5.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/61/Todd_Packer.jpg"
   },
   {
     "id": 7,
     "name": "Jim Halpert",
-    "image": "https://gustavogibo.github.io/the-office-clicky-game/src/cast-pics/6.png"
+    "image": "https://78.media.tumblr.com/41a9ffc848c925311fbd7f0003bb771b/tumblr_inline_nebd0iVGLm1reiszd.png"
   },
   {
     "id": 8,
     "name": "Dwight Schrute",
-    "image": "https://gustavogibo.github.io/the-office-clicky-game/src/cast-pics/8.jpg"
+    "image": "https://scontent-sea1-1.cdninstagram.com/vp/a0e651a0713086c313a0b512f8265a90/5B7D7444/t51.2885-15/e35/c77.0.250.250/31694846_187011382127705_8674368344754749440_n.jpg"
   },
   {
     "id": 9,
     "name": "Kelly",
-    "image": "https://gustavogibo.github.io/the-office-clicky-game/src/cast-pics/9.jpg"
+    "image": "https://cdn.tvweb.com/img.news.tops/NE8iLb5BiRWSbh_1_b/Mindy-Kaling-Set-To-Return-For-The-Office.jpg"
   }
 ]
