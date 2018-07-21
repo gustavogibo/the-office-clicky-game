@@ -14,10 +14,6 @@ Good luck!
 - Node.js
 - React
 - Bootstrap
-- Google Fonts
-
-## Required package(s)
-- shuffle-array
 
 ## Launch the app
 [The Office - Clicky Game](https://gustavogibo.github.io/the-office-clicky-game/)
